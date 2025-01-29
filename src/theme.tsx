@@ -1,5 +1,5 @@
 export const light = {
-  inputBackgroundColor: '#e5ecf2',
+  inputBackgroundColor: '#000000',
   inputPlaceholderColor: '#00000066',
   inputTextColor: '#333',
   suggestionsListBackgroundColor: '#fff',
